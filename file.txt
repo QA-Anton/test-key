@@ -1,7 +1,6 @@
 Вносим текст в новый файл
 Hello World!
 Тест - ветка third_branch
-"test4"
-"test5"
-"test6"
+<<<<<<< HEAD
+test4, test5, test6
 "test7"
